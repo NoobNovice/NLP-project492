@@ -1,0 +1,341 @@
+﻿ร้าน	เปิด	แค่	วัน	อังคาร	8.00	-	17.00
+OO  OO  OO  ET  ET  ET  ET  ET
+
+ขาย	ถึง	4	โมง	เย็น	ทุก	วัน
+OO  OO  ET  ET  ET  ET  ET
+
+ร้าน	เปิด	ทุก	วัน	จันทร์	ถึง	เสาร์	ตั้งแต่	7.00	-	16.00
+OO  OO  ET  ET  ET  ET  ET  ET  ET  ET  ET
+
+ร้าน	เปิด	ทุก	วัน	ตั้งแต่	10.00	-	21.30	ปิด	ทุก	วันพระ
+OO  OO  ET  ET  ET  ET  ET  ET  ET  ET  ET
+
+ร้าน	เปิด	ให้	บริการ	ตั้งแต่	เวลา	07.00	-	15.00
+OO  OO  OO  OO  OO  OO  ET  ET  ET
+
+ร้าน	เปิด	ให้	บริการ	ตั้งแต่	เวลา	08.00	-	18.00	ปิด	ทุก	วันพระ
+OO  OO  OO  OO  OO  OO  ET  ET  ET  ET  ET  ET
+
+ร้าน	เปิด	ทุก	วัน	7.00	-	15.00
+OO  OO  ET  ET  ET  ET  ET
+
+มื้อ	กลาง	วัน	เริ่ม	11.00	-	14.30	มื้อ	เย็น	ครัว	เปิด	ตั้งแต่	18.30	ทุ่ม	นึง
+OO  OO  OO  OO  ET  ET  ET  ET  ET  OO  OO  ET  ET  ET  ET
+
+ช่วง	เย็น	ถึง	ค่ำ	หา	ร้าน	อร่อย	ทาน	ยาก
+OO  ET  ET  ET  OO  OO  OO  OO  OO
+
+ร้าน	มา	ขาย	สอง	เวลา	ตั้งแต่	9.00	-	14.00	ยกเว้น	วัน	อาทิตย์	ใน	ตอน	เช้า	ตอน	เย็น	ตั้งแต่	14.00	-	18.00
+OO  OO  OO  OO  OO  OO  ET  ET  ET  ET  ET  ET  ET  ET  ET  ET  ET  ET  ET  ET  ET
+
+โชค	ดี	มาก	พอ	ร้าน	เปิด	11	โมง	ปุ๊	ป	กิน
+OO  OO  OO  OO  OO  OO  ET  ET  OO  OO  OO
+
+หาก	มา	ตอน	บ่าย	มี	ทาง	ร้าน	มี	เฉาก๊วย	ตัก	กิน	ฟรี
+OO  OO  ET  ET  OO  OO  OO  OO  EM  OO  OO  OO
+
+ใคร	เช็ค	อิน	ช่วง	14.00	-	17.00	โอเลี้ยง	ฟรี	อีก
+OO  OO  OO  OO  ET  ET  ET  EM  OO  OO
+
+ร้าน	เปิด	ตลอด	24	ชั่วโมง
+OO  OO  OO  ET  ET
+
+เพราะ	ร้าน	เปิด	ให้	บริการ	ถึง	24	ชั่วโมง	เป็น	ที่	มี	อาหาร	ให้	ทาน
+OO  OO  OO  OO  OO  OO  ET  ET  OO  OO  OO  OO  OO  OO
+
+ต้อง	ดู	วัน	เปิด	-	ปิด	ดี	เพราะ	เจ้าของ	ไป	ซื้อ	ปลา	เอง	ไม่	ศรีราชา	คงจะ	เป็น	ที่	ญี่ปุ่น
+OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+วัน	เปิด	ปิด	ร้าน	ไม่	แน่นอน
+OO  OO  OO  OO  OO  OO
+
+ร้าน	เปิด	ตั้งแต่	11.00	กลาง	วัน	มี	ชุด	ซูชิ	เลือก
+OO  OO  OO  ET  ET  ET  OO  OO  OO  EM
+
+เพราะ	1	อาทิตย์	ทาง	ร้าน	ทำให้	1	หม้อ	เท่านั้น	ผ่าน	ไป	หลาย
+OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+อร่อย	เหมือน	กัน	เห็น	เปิด	ตอน	กลาง	วัน	ส่วน	ใหญ่	มา	เป็น	ช่วง	เย็น	ไป	ถ้า	เลย	เวลา	18.00	สามารถ	จอด	รถ	ด้าน	หน้า	ร้าน	เลย
+OO  OO  OO  OO  OO  ET  ET  ET  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+เปิด	ทุก	วัน	ตั้งแต่	เวลา	10.00	-	22.30	ครัว	ปิด	20.30
+OO  OO  OO  OO  OO  ET  ET  ET  OO  OO  OO
+
+วัน	มี	คน	พา	มา	ถึงที่	เกือบ	ไม่	ทันกิน	เพราะ	ร้าน	ปิด	ตอน	16.30
+OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  ET  ET  ET
+
+ถ้า	เป็น	ช่วง	เที่ยง	ถึง	บ่าย	สาม	กว่า	ๆ	ร้อน	หน่อย	ต้อง	เปิด	แอร์
+OO  OO  OO  ET  ET  ET  ET  ET  ET  OO  OO  OO  OO  OO
+
+ทาง	ร้าน	เปิด	แอร์	ทิ้ง	เอา	ไว้	ทำให้	ไม่
+OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+เปิด	8	:	00	-	2	0	:	00
+OO  ET  ET  ET  ET  ET  ET  ET  ET
+
+เย็น	ร้าน	เปิด
+OO  OO  OO
+
+ร้าน	เปิด	ตอน	เย็น
+OO  OO  ET  ET
+
+ร้าน	เปิด	สัก	ครึ่ง	ทน	รอ	หน่อย	รับรอง	คุ้ม
+OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+ร้าน	เปิด	บ่าย	เท่านั้น
+OO  OO  ET  ET
+
+ร้าน	เปิด	1	3	:	00	คน	มา	รอ	คิว	ตั้งแต่	เที่ยง
+OO  OO  ET  ET  ET  ET  OO  OO  OO  OO  OO  OO
+
+ปิด	รอบ	แรก	1	6	:	00	เปิด	อี	กรอบ	1	8	:	00
+OO  OO  OO  ET  ET  ET  ET  OO  OO  OO  ET  ET  ET  ET
+
+จาน	แรก	ตอน	13.30	ครบ	ทุก	จาน	ตอน	บ่าย	สอง	เพราะ
+OO  OO  ET  ET  ET  OO  OO  OO  OO  OO  OO
+
+ร้าน	เปิด	บริการ	ทุก	วัน	ยกเว้น	วัน	จันทร์	เปิด	ให้	บริการ	ตั้งแต่	1	0	:	3	0	-	2	1	:	00
+OO  OO  OO  ET  ET  ET  ET  ET  ET  ET  ET  ET  ET  ET  ET  ET  ET  ET  ET  ET  ET  ET
+
+เริ่ม	เล่น	ใน	เวลา	13.00	-	17.00	18.30	-	20.30	ของ	ทุก	วัน	เรียก	เพลิน
+OO  OO  OO  OO  ET  ET  ET  ET  ET  ET  ET  ET  ET  OO  OO
+
+ที่	จอด	รถ	ถ้า	ไป	ช่วง	เสาร์	อาทิตย์	อาจ	หา	ยาก	นิด	นึง
+OO  OO  OO  OO  OO  OO  ET  ET  OO  OO  OO  OO  OO
+
+ร้าน	ปิด	ไม่	ดึก	ต้อง	รีบ	มา	หน่อย	เพราะ	ถ้า	ใกล้	เวลา	ปิด	ร้าน	พนักงาน	เคลีย	โต๊ะ	ปิด	รับ	ไว
+OO  ET  ET  ET  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+สาขา	ใหม่	ออน	ใต้	​	เปิด	เฉพาะ	เสาร์	อาทิตย์
+EL  EL  EL  EL  OO  ET  ET  ET  ET
+
+ร้าน	ต้อง	มา	ก่อน	เย็น	ไม่	งั้น	ร้าน	ปิด	อด	ทาน
+OO  OO  OO  ET  ET  OO  OO  OO  OO  OO  OO
+
+เรา	ไป	กิน	มา	ใน	วัน	เสาร์	12	มกราคม	2562	ช่วง	เวลา	18.00	น
+OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+เปิด	ให้	บริการ	เปิด	ประมาณ	9.00	ถึง	17.00
+OO  OO  OO  OO  OO  ET  ET  ET
+
+เวลา	เปิด	ให้	บริการ	1	1	:	3	0	-	1	4	:	00	/	1	7	:	00	-	2	1	:	00	หยุด	วัน	จันทร์	วัน	อังคาร
+OO  OO  OO  OO  ET  ET  ET  ET  ET  ET  ET  ET  ET  ET  ET  ET  ET  ET  ET  ET  ET  ET  ET  ET  ET  ET  ET  ET  ET
+
+เขา	เปิด	11.00	-	สาม	ทุ่ม
+OO  OO  ET  ET  ET  ET
+
+ปิด	ทุก	วัน	ที่	1	1	6	ของ	เดือน
+OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+เปิด	บริการ	วัน	อังคาร
+OO  OO  OO  OO
+
+วัน	พฤหัส	-	อาทิตย์	ตั้งแต่	เวลา	10.00	-	24.00
+OO  ET  ET  ET  ET  ET  ET  ET  ET
+
+เปิด	บริการ	ทุก	วัน	ตั้งแต่	เวลา	07.00	-	15.00
+OO  OO  ET  ET  ET  ET  ET  ET  ET
+
+ร้าน	เจียว	ดาว	หลัง	มช	เปิด	ตั้งแต่	1	7	:	3	0	-	0	1	:	00
+OO  EN  EN  EL  EL  OO  OO  ET  ET  ET  ET  ET  ET  ET  ET  ET  ET
+
+เปิด	18.00	-	23.30
+OO  ET  ET  ET
+
+ร้าน	น่า	เปิด	ตอน	เย็น	06.30	-	12.30
+OO  OO  OO  ET  ET  ET  ET  ET
+
+เปิด	จันทร์	-	เสาร์
+OO  ET  ET  ET
+
+อร่อย	เหมือน	กัน	เห็น	เปิด	ตอน	กลาง	วัน	ส่วน	ใหญ่	มา	เป็น	ช่วง	เย็น	ไป	ถ้า	เลย	เวลา	18.00	สามารถ	จอด	รถ	ด้าน	หน้า	ร้าน	เลย
+OO  OO  OO  OO  OO  ET  ET  ET  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+เธอ	รัก	เขา	เรา	กัน	ดี	เห	รอ
+OO  OO  OO  OO  OO  OO  OO  OO
+
+ข้าว	ซอย	ลำดวน	ร้าน	ข้าว	ซอย	เจ้า	เก่า	ตั้ง	อยู่	ไม่	ไกล	จาก	ตัว	เมือง	เชียงใหม่
+EN  EN  EN  OO  EM  EM  OO  OO  OO  OO  OO  OO  OO  OO  OO  EL
+
+ถนน	เจริญ	ราษฏร์	มุ่ง	หน้า	ผ่าน	ร้าน	ข้าว	ซอย	เสมอใจ	ตรง	เข้าไป	อีก	หน่อย	ร้าน	อยู่	ทาง	ซ้าย	มือ
+OO  EL  EL  OO  OO  OO  OO  EN  EN  EN  OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+ขอ	แนะนำ	เฮือน	เพ็ญ	ร้าน	อาหาร	เหนือ
+OO  OO  EN  EN  OO  EM  EM
+
+ใคร	อยาก	ทาน	อาหาร	เหนือ	แท้	มา	ร้าน	เฮือน	เพ็ญ	เลย
+OO  OO  OO  EM  EM  OO  OO  OO  EN  EN  OO
+
+ร้าน	ตั้ง	อยู่	ย่าน	ช้าง	ม่อย	ตรง	ข้าม	หมู	สะเต๊ะ	ช่าง	ม่อย
+OO  OO  OO  OO  EL  EL  OO  OO  EN  EN  EN  EN
+
+ชื่อ	ช้าง	ม่อย	กาแฟ
+OO  EN  EN  EN
+
+ร้าน	ชื่อ	ช้าง	ม่อย	กาแฟ
+OO  OO  EN  EN  EN
+
+ร้าน	ช้าง	ม่อย	กาแฟ	หนึ่ง	ใน	ร้าน	อาหาร	เก่า	แก่	ของ	เมือง	เชียงใหม่
+OO  EN  EN  EN  OO  OO  OO  OO  OO  OO  OO  OO  EL
+
+มา	ทาน	ร้าน	ช้าง	ม่อย	กาแฟ
+OO  OO  OO  EN  EN  EN
+
+ร้าน	ข้าว	ซอย	อิสลาม	เป็น	ร้าน	เปิด	มา	นาน
+OO  EN  EN  EN  OO  OO  OO  OO  OO
+
+ข้าว	ซอย	อิสลาม	รสชาติ	ดี	เป็น	ร้าน	ข้าว	ซอย	อิสลาม	ร้าน	มี	ที่	จอด	รถยนต์	ไม่	เยอะ	มาก
+EN  EN  EN  OO  OO  OO  OO  EN  EN  EN  OO  OO  OO  OO  OO  OO  OO  OO
+
+วัน	มา	ทาน	กาแฟ	ร้าน	brewing	coffee
+OO  OO  OO  OO  OO  EN  EN
+
+ชื่อ	ร้าน	Les	Fleurs	Fac
+OO  OO  EN  EN  EN
+
+ร้าน	ชื่อ	ทานตะวัน
+OO  OO  EN
+
+ร้าน	Sweet	a	bit	ChiangMai	พี่	เล็ก	นาง	ทำ	ขนม	อร่อย	หวาน	น้อย	ดั่ง	ชื่อ	ร้าน
+OO  EN  EN  EN  EN  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+Tea	Inn	ร้าน	กาแฟ	หลัง	มอ
+EN  EN  EN  EN  EN  EN
+
+เมื่อ	วาน	ไป	หลัง	มอ	ใกล้	เที่ยง	ผ่าน	ตรง	เวิ้ง	volcano
+OO  OO  OO  EL  EL  OO  OO  OO  OO  EL  EL
+
+ที่	ร้าน	Namaste	Indian	Cuisine	อร่อย	มาก
+OO  OO  EN  EN  EN  OO  OO
+
+ร้าน	ขา	หมู	เจ้า	เก่า
+OO  EM  EM  OO  OO
+
+ร้าน	เปิด	ตลอด	24	ชั่วโมง
+OO  OO  OO  ET  ET
+
+กิน	นม	สด	ขนมปัง	ที่	อ้อน	นม	สด
+OO  EM  EM  OO  OO  EN  EN  EN
+
+ร้าน	เจียว	ดาว	หลัง	มช
+OO  EN  EN  EN  EN
+
+เจียว	ดาว	หลัง	มช
+EN  EN  EN  EN
+
+อี	กร้าน	นึง	เมิง	ต้อง	มา	ลอง	ร้าน	ให้	ได้ที่	ระกา	-	restaurant
+OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  EN  EN  EN
+
+ระกา	เป็น	ร้าน	น้อง	ใหม่	ย่าน	นิมมาน	อยู่	ตรง	ทาง	เข้า	ซอย	9	เห็น	ชัด	อยู่	ตรง	กัน	ข้าม	Tesco	Lotus
+EN  OO  OO  OO  OO  OO  EL  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+ระกา	เป็น	ร้าน	ไก่	ทอด	อาหาร	จาน	เดียว	เน้น	เมนู	ทำ	มา	จาก	ไก่	เกือบ	ทั้งหมด
+EN  OO  OO  EM  EM  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+ร้าน	อาหาร	สไตล์	ตะวัน	ตก
+OO  OO  OO  EM  EM
+
+ร้าน	มาดาม	เป็น	ร้าน	unseen	อี	กร้าน	นึง	ถ้า	ไม่ใช่	คน	เชียงใหม่	จริง	ไม่	ค่อย	รู้จัก
+OO  EN  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+กาแฟ	ร้าน	กาแฟ	จังหวัด	แม่	อาย
+EN  OO  OO  OO  OO  OO
+
+หมู	สะ	เต	ช่าง	ม่อย	แถว	ช่าง	ม่อย	ตัด	ใหม่
+EN  EN  EN  EN  EN  OO  EL  EL  EL  EL
+
+ถนอม	โภชนา	เป็น	ร้าน	เก่า	แก่	เปิด	คู่	เชียงใหม่	มา	นาน
+EN  EN  OO  OO  OO  OO  OO  OO  EL  OO  OO
+
+ร้าน	Boat	Bakery	เดี๋ยว	รสชาติ	อาจ	ไม่	อร่อย	ที่	สุดแต่	บริการ	ถือว่า	ดี	เยี่ยม
+OO  EN  EN  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+ร้าน	เปิด	ตลอด	24	ชั่วโมง
+OO  OO  OO  ET  ET
+
+ร้าน	เขา	เปิด	ให้	บริการ	กัน	ตั้งแต่	เช้า	เลย	เป็น	ร้าน	เปิด	มา	เอาใจ	นักศึกษา	เหล่า	บรรดา	คน	ชอบ	ไก่
+OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+ร้าน	มี	ป้าย	บอก	จอด	ด้าน	หน้า	เลย	ร้าน	เปิด	ตั้งแต่	8.30	-	20.30	ทุก	วัน
+OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  ET  ET  ET  ET  ET
+
+ร้าน	ปิด	เที่ยง	คืน
+OO  ET  ET  ET
+
+ร้าน	เป็น	ร้าน	แบบ	open	Air	เปิด	ประตู	หน้าต่าง	เอา	ไว้
+OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+มา	ร้าน	ตอน	บ่าย	สาม
+OO  OO  ET  ET  ET
+
+ติด	ค่าย	กา	วิ	ด้าน	ทาง	เข้า	ร้าน	เปิด	ตั้งแต่	บ่าย	ของ	ทุก	วัน	ปิด	วัน	อาทิตย์
+OO  EL  EL  EL  OO  OO  OO  OO  OO  OO  ET  ET  ET  ET  ET  ET  ET
+
+ค่อน	ข้าง	มี	ความ	อิน	ดี้	ใน	แง่	การ	เปิด	-	ปิด	ร้าน
+OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+เปิด	ไป	รอบ	แรก	ตอน	เที่ยง
+OO  OO  ET  ET  ET  ET
+
+น่า	เปิด	ประมาณ	เที่ยง	ถึง	หนึ่ง	ทุ่ม
+OO  OO  OO  ET  ET  ET  ET
+
+เปิด	เฉพาะ	วัน	เสาร์	-	อาทิตย์	เท่านั้น
+OO  OO  ET  ET  ET  ET  ET
+
+เปิด	ให้	บริการ	ตั้งแต่	12.00	-	21.00
+OO  OO  OO  OO  ET  ET  ET
+
+ร้าน	เปิด	วัน	จันทร์	-	วัน	เสาร์	08.00	-	19.30	ปิด	วัน	อาทิตย์
+OO  OO  ET  ET  ET  ET  ET  ET  ET  ET  ET  ET  ET
+
+เปิด	ร้าน	10.00	-	21.00	บาง	วัน	ปิด	เวลา	20.00	หยุด	วัน	จันทร์
+OO  OO  ET  ET  ET  ET  ET  ET  ET  ET  ET  ET  ET
+
+เปิด	ให้	บริการ	-	11.00	-	21.00	ส	-	10.00	-	21.00
+OO  OO  OO  ET  ET  ET  ET  ET  ET  ET  ET  ET
+
+ร้าน	เปิด	1	1	โมง
+OO  OO  ET  ET  ET
+
+11.00	-	22.00	ปิด	อาทิตย์
+ET  ET  ET  ET  ET
+
+ร้าน	เปิด	1	1	โมง
+OO  OO  ET  ET  ET
+
+กิน	อาหาร	อีสาน	ร้าน	ไหน
+OO  EM  EM  OO  OO
+
+ร้าน	เปิด	แค่	วัน	อังคาร	8.00	-	17.00
+OO  OO  OO  ET  ET  ET  ET  ET
+
+ร้าน	เจียว	ดาว	หลัง	มช	เปิด	ตั้งแต่	1	7	:	3	0	-	0	1	:	00
+OO  EN  EN  EN  EN  OO  OO  ET  ET  ET  ET  ET  ET  ET  ET  ET  ET
+
+ใคร	อยาก	ทาน	อาหาร	เหนือ	แท้	มา	ร้าน	เฮือน	เพ็ญ	เลย
+OO  OO  OO  EM  EM  OO  OO  OO  EN  EN  EN
+
+Tea	Inn	ร้าน	กาแฟ	หลัง	มอ
+EN  EN  EN  EN  EN  EN
+
+ร้าน	เปิด	ตลอด	24	ชั่วโมง
+OO  OO  OO  ET  ET
+
+กิน	นม	สด	ขนมปัง	ที่	อ้อน	นม	สด
+OO  EM  EM  EM  OO  EN  EN  EN
+
+ระกา	เป็น	ร้าน	ไก่	ทอด	อาหาร	จาน	เดียว	เน้น	เมนู	ทำ	มา	จาก	ไก่	เกือบ	ทั้งหมด
+EN  OO  OO  EM  EM  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+ร้าน	อาหาร	สไตล์	ตะวัน	ตก
+OO  OO  OO  EM  EM
+
+ติด	ค่าย	กา	วิ	ด้าน	ทาง	เข้า	ร้าน	เปิด	ตั้งแต่	บ่าย	ของ	ทุก	วัน	ปิด	วัน	อาทิตย์
+OO  EL  EL  EL  OO  OO  OO  OO  OO  OO  ET  ET  ET  ET  ET  ET  ET
+
+กิน	อาหาร	อีสาน	ร้าน	ไหน
+OO  EM  EM  OO  OO
+
+กาแฟ	ร้าน	กาแฟ	จังหวัด	แม่	อาย
+EN  OO  OO  OO  OO  OO

@@ -1,0 +1,167 @@
+﻿คือ	ตอน	แรก	ไม่	อยาก	ไป	เลย	แบบ	โรตี	อะไร	ทั่วไป	กาก	แน่	เลย	กิน	แถว	บ้าน	ก็ได้
+OO  OO  OO  OO  OO  OO  OO  OO  EM  OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+พอ	ไป	โอ้	โห	โรตี	ที่	กิน	ๆ	มา	ใน	ชีวิต	ตาย	เรียบ	ทุ	กร้าน
+OO  OO  OO  OO  EM  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+ก๋วยเตี๋ยว	หลุด	โลก	ซอย	ริ	มัง	คลา	จาร	1	3	ร้าน	เน้น	ชาม	ใหญ่	ยักษ์	ราคา	ถูก	รสชาติ	กลมกล่อม	ดี	มาก	อยาก	ให้	ลอง	จริง	ๆ
+EN  EN  EN  OO  EL  EL  EL  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+ข้าว	ซอย	นิมมาน	ร้าน	ข้าว	ซอย	ขึ้น	ชื่อ	ของ	เชียงใหม่	รสชาติ	อร่อย	ตาม	สไตล์	ภาค	เหนือ	แท้	ๆ	ข้าว	ซอย	มี	ให้	เลือก	ท็อป	ปิ้ง	อร่อย	ๆ	หลาย	แบบ
+EN  EN  EN  OO  EM  EM  OO  OO  OO  OO  EL  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+ซอย	1	3	อยู่	ใน	โรงแรม	เล็ก	ๆ	ไม่	มีชื่อ	ร้าน	เลย
+OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+ร้าน	ต้อง	สังเกต	โรงแรม	อย่าง	เดียว	เลย	เดิน	มา	จาก	ก๋วยเตี๋ยว	อัญชัน	ก็ได้	ร้าน	อร่อย	รอง	จาก	ดารา	เทวี	ชอบ	ส่วน	ตัว	อร่อย	มาก
+OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+คั่ว	ไก่	นิมมาน	คั่ว	ไก่	อร่อย	เทพ	อีก	1	ร้าน	ขึ้น	ชื่อ	ของ	เชียงใหม่
+EN  EN  EN  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  EL
+
+บิ๊ก	หมี่	บะหมี่	ขั้น	เทพ	ช้าง	เผือก	ลึกลับ	มาก	นอก	เมือง	คือ	มัน	มี	จา	นยักษ์	ใบ	หนึ่ง	ที่	ใส่	มา	ทุก	อย่าง
+EN  EN  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+ใคร	เลือก	กิน	อะไร	เอา	มา	ใส่	ใน	ถ้วย	ตัว	เอง	มี	น้ำ	ซุป	ให้	เอา	กิน	กัน	เลย
+OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+จาน	หนึ่ง	กิน	3	-	4	คน	ใคร	ไป	เชียงใหม่	กัน	เยอะ	ๆ	แนะนำ	ให้	ไป	กิน	เพราะ	อร่อย	จริง	บริการ	ดี	ถ้า	เช็ก	อิน	แถม	โน่น	แถม	เลือก	เอา	อะไร
+OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+คุณ	หมอ	เป็น	ร้าน	อาหาร	สบาย	ๆ	ที่	ช่วง	หนึ่ง	มา	ฝาก	ท้อง	ทุก	วัน	คน	ไม่	ค่อย	เยอะ	มาก	นั่ง	นาน	ๆ	อาหาร	ไม่	แพง	อร่อย
+EN  EN  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+เป็น	ร้าน	แนว	นั่ง	ชิล	กึ่ง	ผับ	อาหาร	เป็น	แนว	ตกแต่ง	หรูหรา
+OO  OO  OO  OO  OO  OO  EM  OO  OO  OO  OO  OO
+
+อาหาร	มัน	ถูก	มาก	กก	กก	กก
+OO  OO  OO  OO  OO  OO  OO
+
+บ้าน	กระต่าย	แอด	เวน	เจ	อร	์	เป็น	สถาน	ที่	ที่	ขึ้น	ชื่อ	น่า	เคย	ได้ยิน	กัน	มา	บ้าง
+EN  EN  EN  EN  EN  EN  EN  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+ที่	ว่า	ทาน	ข้าว	ไป	เอา	เท้า	แช่	น้ำ	ให้	ปลา	ตอด	ๆ	ไป	มี	อัน
+OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+แก้ว	เท่า	บ้าน	เริ่ม	มา	ฮิต	แถว	กรุงเทพฯ	กัน	บ้าง	ที่	รสชาติ	โอเค	เลย	เขา	ชง	เข้ม	ข้น	จริง
+OO  OO  OO  OO  OO  OO  OO  EL  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+ร้าน	ที่	จัด	สวย	มาก	พื้นที่	ร้าน	เล็ก	มาก	1	คูหา	สามารถ	ทำให้	เป็น	2	ชั้น
+OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+เหมือน	ห้อง	ใต้	หลังคา	ใน	หนัง	ฝรั่ง	บรรยากาศ	ดี	มี	หมอน	มี	โต๊ะ	ไม้	มี	ตุ๊กตา	นั่ง	เป็น	วัน
+OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+เมนู	ของ	หวาน	ประหลาด	ๆ	แปลก	ใหม่	สุด	ๆ	รสชาติ	ไม่	ดี	เว่อ	วัง	อะไร	มาก
+OO  EM  EM  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+ส้มตำ	อุดร	ใกล้	โรงแรม	ดารา	เทวี	จาก	ชื่อ	ร้าน	คง	รู้	ว่า	อร่อย	สไตล์	อีสาน	จริง	ๆ
+EN  EN  OO  OO  EN  EN  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+ร้าน	ไอศกรีม	โฮม	เม	ที่	รสชาติ	อร่อย	ถูก	มา	กก	กก	กก
+OO  EM  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+ที่	พีค	มาก	คือ	ของ	ที่	มัน	เป็น	ขนมปัง	สี	ดำ	ที่	ราด	คา	รา	เมล
+OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+คือ	โอ้	โห	อร่อย	แบบ	โทส	ทุก	ชนิด	ใน	โลก	สยบ	แทบ	เท้า
+OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+ไก่	ทอด	เที่ยง	คืน	เปิด	22.00	-	04.00
+EN  EN  EN  EN  OO  ET  ET  ET
+
+ไก่	ทอด	เที่ยง	คืน	ร้าน	ใน	ตำนาน	ของ	เชียงใหม่
+EN  EN  EN  EN  OO  OO  OO  OO  EL
+
+ก๋วยเตี๋ยว	ต้มยำ	ไข่
+EN  EN  EN
+
+ส้มตำ	อุดร
+EN  EN
+
+ดารา	เทวี	บุฟเฟ่ต์
+EN  EN  EM
+
+ข้าวต้ม	ตรง	4	แยก	ถนน	หลัง	มหาวิทยาลัย	เชียงใหม่
+EN  OO  OO  OO  OO  EL  EL  EL
+
+ร้าน	ข้าวต้ม	โต้	รุ่ง	ที่	ไป	กี่	รอบ	เต็ม	เหมือน	โรตี	มา	สไตล์	เดียวกัน	คือ	ของ	อร่อย	จริง
+OO  EN  EN  EN  OO  OO  OO  OO  OO  OO  EN  OO  OO  OO  OO  OO  OO  OO
+
+ส่วน	ตัว	ชอบ	คอม	โบ	3	อย่าง	มาก	ปลาหมึก	ผัด	ผง	กะหรี่	ผัด	ผัก	บุ้ง	หมู	กรอบ	หมู	หวาน
+OO  OO  OO  OO  OO  OO  OO  OO  OO  EM  EM  EM  EM  EM  EM  EM  EM  EM  EM
+
+ดิบดี	กาด	จริงใจ	ที่	เดียว
+EN  OO  EL  OO  OO
+
+ข้าว	แกง	กะหรี่	วัน	ที่	ผม	ไป	กิน	ข้าว	แอบ	แข็ง	ไป	นิด	ส่วน	ซูชิ	โอเค
+EM  EM  EM  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  EM  OO
+
+แนะนำ	ให้	จัด
+OO  OO  OO
+
+ดี	งาม	มาก	เนื้อ	เด่น	มิค	คือ	จาน	โต	ราคา	ไม่	แพง	เลย	ที่	โดน	สุด	คือ	สปา	เก	คา	โบ	นา	ร่า
+OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+ที่	เหนือ	คาด	คือ	ราย	ชีส	เบคอน	กรอบ
+OO  OO  OO  OO  OO  OO  OO  OO
+
+สั่ง	มา	หลาย	อย่าง	สนนราคา	รวม	ทั้งหมด	9	00	กว่า	บาท	ถูก	ไป	ไหน
+OO  OO  OO  OO  OO  OO  OO  EP  EP  EP  EP  OO  OO  OO
+
+ร้าน	พาย	โค	ตะ	ระ	อร่อย	ที่	คน	ถิ่น	เขา	บอ	กว่า	ห้าม	พลาด	ร้าน	พาย	จ	ริ	ณ
+OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  EN  EN  EN  EN
+
+ชอบ	พาย	มะพร้าว	มาก	กก	คือ	โค	ตะ	ระ	อร่อย
+OO  EM  OO  OO  OO  OO  OO  OO  OO  OO
+
+เค้ก	มะพร้าว	แบบ	ครีม	ทำลาย	หน้า
+EM  OO  OO  OO  OO  OO
+
+อร่อย	ดี	งาม	น้ำ	ข้าว	ซอย	รส	เข้ม	ข้น	น้ำ	เงี้ยว	เด็ด	ข้าว	เงี้ยว	หอม
+OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+เจ้า	ดัง	สาม	กษัตริย์	มี	คน	ซื้อ	มา	ให้	ลอง	กิน	ที่	โรงแรม
+OO  OO  EN  EN  OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+เต็ม	โต๊ะ	”	เขา	ว่า	อร่อย	มั่ง	ไม่	โดน	มั่ง	ตาม	ประสา	มา	จัด	เอง
+OO  EN  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+ถือ	เป็น	ร้าน	อาหาร	เมือง	ใน	ย่าน	นิมมาน	ที่	ถ้า	ไม่	อยาก	ไป	ไกล	ทาน	ร้าน	เลย
+OO  OO  OO  EM  EM  OO  OO  EL  OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+คน	รัก	กาแฟ	ต้อง	ห้าม	พลาด	ร้าน	“	8	”
+OO  OO  EM  OO  OO  OO  OO  OO  EN  OO
+
+ตบ	ท้าย	มื้อ	ดึก	“	ก๋วยเตี๋ยว	ต้มยำ	ประตู	สวน	ดอก	”
+OO  OO  OO  OO  EN  EN  EN  EN  OO  EN  EN
+
+มา	วัด	พระ	สิงห์	ไหว้	พระ	ธาตุ	ไป	แวะ	กิน	ขนม	กัน
+OO  EL  EL  EL  OO  OO  OO  OO  OO  OO  OO  OO
+
+ฮ้า	น	ถึง	เชียงใหม่	เขา	ว่า	ต้อง	มา	ให้	ถึง	เชียงใหม่	ต้อง	ลอง
+EN  EN  EN  EN  OO  OO  OO  OO  OO  OO  EL  OO  OO
+
+ชื่อ	ร้าน	สะดุด	ตา	เรื่อง	บรรยากาศ	ความ	ร่มรื่น	เค้ก	ใช้ได้
+OO  OO  OO  OO  OO  OO  OO  OO  EM  OO
+
+เนื้อ	ตุ๋น	รส	เยี่ยม	นิมมาน	ซอย	1	1	ร้าน	เขา	ว่า	ดี	งาม	ตาม	มา	ลอง
+EN  EN  EN  EN  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+ห้าง	ชา	เขียว	หอม	มาก	ขม	นิด	ๆ	อร่อย	รส	นม	อร่อย	มี	2	รส	รสชาติ	แปลก	มาก	ไม่	เหมือน	นม	หรือ	ชา	เขียว	ทั่วไป
+OO  EM  EM  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  EM  EM  OO
+
+เป็น	ร้าน	นั่ง	ชิล	ตกแต่ง	สไตล์	เก่า	ๆ	พวก	น่า	ชอบ
+OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+ที่	ชอบ	มาก	คือ	สลัด	ปลา	ซา	ปลา	แซลมอน	ย่าง	อร่อย	มา	กก	กก	กก	ถูก	แค่	1	00	บาท	นิด	ๆ
+OO  OO  OO  OO  EM  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  EP  EP  EP  OO  OO
+
+จาน	หนึ่ง	กิน	3	-	4	คน	ใคร	ไป	เชียงใหม่	กัน	เยอะ	ๆ	แนะนำ	ให้	ไป	กิน	เพราะ	อร่อย	จริง	บริการ	ดี	ถ้า	เช็ก	อิน	แถม	โน่น	แถม	เลือก	เอา	อะไร
+OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+ร้าน	ที่	จัด	สวย	มาก	พื้นที่	ร้าน	เล็ก	มาก	1	คูหา	สามารถ	ทำให้	เป็น	2	ชั้น
+OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+ผัด	ผัก	บุ้ง	หมู	กรอบ	หมู	หวาน
+EM  EM  EM  EM  EM  EM  EM

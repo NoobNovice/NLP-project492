@@ -1,0 +1,164 @@
+﻿สรุป	เค้า	เปิด	เที่ยง
+OO  OO  OO  ET
+
+ถ้า	ไป	กิน	เลย	19.00	ร้าน	มี	วง	ดนตรี	มา	เล่น	ฟัง
+OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+ร้าน	ปิด	ประมาณ	เที่ยง	คืน
+OO  ET  ET  ET  ET
+
+เปิด	10.00	ปิด	ร้าน	เวลา	24.00
+OO  ET  ET  ET  ET  ET
+
+มี	อะไร	อร่อย	ๆ	แถว	นิมมาน	มั้ย
+OO  OO  OO  OO  OO  EL  OO
+
+กิน	อาหาร	ไทย	ร้าน	ไหน	ดี
+OO  EM  EM  OO  OO  OO
+
+กิน	ก๋วยเตี๋ยว	ร้าน	ไหน	ดี
+OO  EM  OO  OO  OO
+
+แนะนำ	ร้าน	อาหาร	ช่าง	หน่อย	สิ
+OO  OO  OO  EL  OO  OO
+
+อยาก	กิน	อาหาร	ญี่ปุ่น	กิน	ร้าน	ไหน	ดี
+OO  OO  EM  EM  OO  OO  OO  OO
+
+อยาก	กิน	ส	เต๊ก	กิน	ที่ไหน	ดี
+OO  OO  EM  EM  OO  OO  OO
+
+แถว	คัน	คลอง	มี	ร้าน	อาหาร	อะไร	แนะนำ	ไหม
+OO  EL  EL  OO  OO  OO  OO  OO  OO
+
+ตรง	หลัง	มอ	มี	ร้าน	อาหาร	อะไร	อร่อย	ไหม
+OO  EL  EL  OO  OO  OO  OO  OO  OO
+
+ขอ	ราย	ชื่อ	ร้าน	พิซซ่า	แถว	เจ็ด	ยอด	หน่อย	สิ
+OO  OO  OO  OO  EM  OO  EL  EL  OO  OO
+
+มี	ร้าน	ก๋วยเตี๋ยว	ใน	มช	ดี	ๆ	ไหม
+OO  OO  EM  OO  EL  OO  OO  OO
+
+กิน	อาหาร	มุสลิม	ไหน	ดี
+OO  EM  EM  OO  OO
+
+กิน	บิ	ซู	ควร	ไป	ร้าน	ไหน	ดี
+OO  EM  EM  OO  OO  OO  OO  OO
+
+หา	ร้าน	ปิ้ง	ย่าง
+OO  OO  EM  EM
+
+แนะนำ	ร้าน	ญี่ปุ่น	หน่อย	สิ
+OO  OO  EM  OO  OO
+
+แนะนำ	ร้าน	อาหาร	แถว	เจ้าพระยา	หน่อย
+OO  OO  OO  OO  EL  OO
+
+แนะนำ	ร้าน	แถว	นิมมาน	หน่อย	สิ
+OO  OO  OO  EL  OO  OO
+
+แนะนำ	ร้าน	หน้า	มช	หน่อย	สิ
+OO  OO  OO  EL  OO  OO
+
+มี	ร้าน	นิมมาน	แนะนำ	ไหม
+OO  OO  EL  OO  OO
+
+ร้าน	ก๋วยเตี๋ยว	หลัง	มอ	มี	อะไร	บ้าง
+OO  EM  OO  EL  OO  OO  OO
+
+ร้าน	ชาบู	หลัง	มอ	มี	อะไร	บ้าง
+OO  EM  OO  EL  OO  OO  OO
+
+ขอ	ร้าน	ปิ้ง	ย่าง	หน้า	มอ
+OO  OO  EM  EM  OO  EL
+
+มี	ร้าน	ข้าว	ไหน	อยู่	ใกล้	มอ	บ้าง
+OO  OO  OO  OO  OO  OO  EL  OO
+
+ร้าน	ข้าว	หอ	ห้า	ชาย	มี	อะไร	บ้าง
+OO  OO  EL  EL  EL  OO  OO  OO
+
+ไป	กิน	หมู	กระทะ	ที่ไหน	ดี
+OO  OO  EM  EM  OO  OO
+
+ร้าน	ก๋วยเตี๋ยว	หลัง	มอ	มี	อะไร	บ้าง
+OO  EM  OO  EL  OO  OO  OO
+
+มี	ร้าน	ส้มตำ	แนะนำ	ไหม
+OO  OO  EM  OO  OO
+
+มี	ร้าน	อาหาร	ไทย	แนะนำ	ไหม
+OO  OO  EM  EM  OO  OO
+
+พอ	มี	ร้าน	เบ	เก	อ	รี	อร่อย	ๆ	แนะนำ	ไหม
+OO  OO  OO  EM  EM  EM  EM  OO  OO  OO  OO
+
+หา	ร้าน	เบ	เก	อ	รี	อยู่
+OO  OO  EM  EM  EM  EM  OO
+
+หา	ร้าน	กาแฟ	อยู่
+OO  OO  EM  OO
+
+กำลัง	หา	ร้าน	กาแฟ	ถูกๆ
+OO  OO  OO  EM  OO
+
+กำลัง	หา	ร้าน	กาแฟ	อยู่
+OO  OO  OO  EM  OO
+
+หา	ร้าน	อาหาร	เหนือ
+OO  OO  EM  EM
+
+กิน	เบอร์	เก	อร	์	ร้าน	ไหน	ดี
+OO  EM  EM  EM  EM  OO  OO  OO
+
+กิน	อาหาร	ไทย	ที่ไหน	ดี
+OO  EM  EM  OO  OO
+
+แนะนำ	ร้าน	เบ	เก	อ	รี่	หน่อย	สิ
+OO  OO  EM  EM  EM  EM  OO  OO
+
+อยาก	กิน	ของ	หวาน
+OO  OO  EM  EM
+
+รู้จัก	ร้าน	คิว	จูง	บัง	ไหม
+OO  OO  EN  EN  EN  OO
+
+ร้าน	ส้มตำ	ตรง	ประตู	เกษตร	ชื่อ	ร้าน	อะไร
+OO  EM  OO  EL  EL  OO  OO  OO
+
+หิว	ข้าว	อะ	เคย	ไป	กิน	ร้าน	โอ้	กะ	จู๋	ป้ะ
+OO  OO  OO  OO  OO  OO  OO  EN  EN  EN  OO
+
+แถว	เม	ย่า	มี	อะไร	กิน	บ้าง
+OO  EL  EL  OO  OO  OO  OO
+
+ร้าน	สุ	กี้	ปะ
+OO  EM  EM  OO
+
+เป็น	ร้าน	ชาบู	หรือ	เปล่า
+OO  OO  EM  OO  OO
+
+เป็น	ร้าน	ข้าว	ก๋วยเตี๋ยว
+OO  OO  OO  EM
+
+ก๋วยเตี๋ยว	หลัง	แมะ
+EM  OO  OO
+
+เป็น	ร้าน	หมู	กระทะ	ปะ
+OO  OO  EM  EM  OO
+
+พอ	มี	ร้าน	เบ	เก	อ	รี	อร่อย	ๆ	แนะนำ	ไหม
+OO  OO  OO  EM  EM  EM  EM  OO  OO  OO  OO
+
+หา	ร้าน	เบ	เก	อ	รี	อยู่
+OO  OO  EM  EM  EM  EM  OO
+
+อยาก	กิน	ของ	หวาน
+OO  OO  EM  EM
+
+รู้จัก	ร้าน	คิว	จูง	บัง	ไหม
+OO  OO  EN  EN  EN  OO
+
+เป็น	ร้าน	ชาบู	หรือ	เปล่า
+OO  OO  EM  OO  OO

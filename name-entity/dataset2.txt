@@ -1,0 +1,170 @@
+﻿เป็น	อะไร	เซ็ง	มาก	เวลา	ตั้งใจ	ทาน	ร้าน	ไหน	มาก	ๆ	ปรากฏ	ของ	หมด	หรือ	ว่า	ร้าน	ปิด
+OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+ข้าว	ผัด	ปู	อยู่	ถนน	ดิ	เส	วี	ตั้ง	อยู่	ตรง	ข้าม	7	-	1	1
+EM  EM  EM  OO  OO  EL  EL  EL  OO  OO  OO  OO  OO  OO  OO  OO
+
+เปิด	บริการ	วัน	อังคาร	วัน	พฤหัส	-	อาทิตย์	ตั้งแต่	เวลา	10.00	-	24.00
+OO  OO  ET  ET  ET  ET  ET  ET  ET  ET  ET  ET  ET
+
+สั่ง	อาหาร	ล่วง	หน้า	ได้ที่	เบอร์	โทรศัพท์	0	9	7	-	00	1	5	5	3	4
+OO  OO  OO  OO  OO  OO  OO  EP  EP  EP  EP  EP  EP  EP  EP  EP  EP
+
+ภายใน	ร้าน	ค่อน	ข้าง	สะอาด	มี	-	ผัก	สด	แตงกวา	หอม	มะนาว	บริการ	ฟรี
+OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+เมนู	สารพัด	ข้าว	ผัด	น่า	ทาน	ทั้ง	เลือก	บอก	ทาง	ร้าน	เลย
+OO  OO  EM  EM  OO  OO  OO  OO  OO  OO  OO  OO
+
+อาหาร	ที่	พื้น	ฐาน	4	0	บาท	พิเศษ	5	0	บาท	เท่านั้น	เอง
+OO  OO  OO  OO  EP  EP  EP  EP  EP  EP  EP  OO  OO
+
+วัน	เมนู	สั่ง	เริ่ม	แรก	ข้าว	ผัด	ปู	4	0	บาท	ตาม	ข้าว	ผัด	ขี้	เมา	ปลาหมึก	4	0	บาท
+OO  OO  OO  OO  OO  EM  EM  EM  EP  EP  EP  OO  OO  EM  EM  EM  EM  EP  EP  EP
+
+หลาย	ๆ	ร้าน	คง	ขาย	ไม่	ต่ำ	กว่า	5	0	บาท	เป็น	แน่
+OO  OO  OO  OO  OO  OO  OO  OO  EP  EP  EP  OO  OO
+
+สั่ง	เป็น	เกาเหลา	ปลา	กระ	พง	ราคา	5	0	บาท
+OO  OO  EM  EM  EM  EM  EM  EP  EP  EP
+
+ร้าน	เป็น	ที่	ขึ้น	ชื่อ	เรื่อง	ข้าว	ผัด	ปู	บอก	เลย	ข้าว	เม็ด	เล็ก	เรียง	สวยงาม	ผัด	มา	แบบ	หอม	เล็ก	ๆ
+OO  OO  OO  OO  OO  OO  EM  EM  EM  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+ย่าน	สันติ	ธรรม	ใกล้	ร้าน	โป๊ก	อี๊ด	หน้า	ร้าน	ป้ายสี	เหลือง	ตัว	หนังสือ	เด่น	ชัด
+OO  EL  EL  OO  OO  EN  EN  OO  OO  OO  OO  OO  OO  OO  OO
+
+ใกล้	ๆ	ร้าน	โฮ	ง	หมู
+OO  OO  OO  EN  EN  EN
+
+จาก	สอบถาม	ทราบ	ร้าน	เปิด	ทุก	วัน	หยุด	ทุก	วัน	อาทิตย์	ตั้งแต่	10.00	-	21.30
+OO  OO  OO  OO  OO  ET  ET  ET  ET  ET  ET  ET  ET  ET  ET
+
+ราคา	เริ่ม	4	0	บาท
+OO  OO  EP  EP  EP
+
+สมาคม	ผู้	นิยม	อาหาร	จาน	เดียว	ยัง	ยืนยัน	ผัด	กะเพรา	เป็น	สุด	ยอด	อาหาร	จาน	เดียว	ถูกปาก	ถูกใจ	คน	ไทย	มาก
+OO  OO  OO  EM  EM  EM  OO  OO  EM  EM  OO  OO  OO  EM  EM  EM  OO  OO  OO  OO  OO
+
+เรา	จึง	วางแผน	ออก	เดิน	ทาง	ดั้น	ด้น	เสาะ	หา	จน	พบ	สุด	ยอด	ผัด	กะเพรา	ที่	ว่า	กัน	อร่อย	นัก	อร่อย	หนา	ใน	เชียงใหม่
+OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  EM  EM  OO  OO  OO  OO  OO  OO  OO  OO  EL
+
+กะเพรา	ลุง	แซม	ร้าน	กะเพรา	เด็ด	ใน	ตำนาน	ของ	ชาว
+EN  EN  EN  OO  EM  OO  OO  OO  OO  OO
+
+บรรยากาศ	ดี	ถ่าย	รูป	สวย	อาหาร	วัตถุดิบ	ชั้น	ดี	ต้อง	แมก	โน	เลีย	ร้าน	อาหาร	มุม	สวย	นั่ง	สบาย	ตกแต่ง	สไตล์	ฝรั่งเศส
+OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  EN  EN  EN  OO  OO  OO  OO  OO  OO  OO  EM  EM
+
+กิน	กะเพรา	รสชาติ	ดี	ขาย	24	ชั่วโมง	แบบ	ไม่	ง้อ	ไมโครเวฟ	เซ	เว่น	ต้อง	ร้าน	โจ๊ก	สม	เพ	รช
+OO  EM  OO  OO  OO  ET  ET  OO  OO  OO  OO  OO  OO  OO  OO  EN  EN  EN  EN
+
+ร้าน	โจ๊ก	สม	เพ	รช	อยู่	คู่	คูเมือง	เชียงใหม่	มา	นาน	กว่า	3	0	ปี	เป็น	ร้าน	ชื่อ	ดัง	ที่	ไม่ใช่	แค่	ชาว	เชียงใหม่	รู้จัก
+OO  EN  EN  EN  EN  OO  OO  EL  EL  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  EL  OO
+
+เส้น	หมี่	ผัด	ไทย	รส	มัน	อยู่	ระหว่าง	กลาง	เลย	เครื่อง	ใส่	มา	มี	กาก	หมู	กุ้งแห้ง
+OO  OO  EM  EM  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+มีชื่อ	ของ	ผัด	ไทย	ปาก	บาง	แห่ง	จังหวัด	สิงห์บุรี	เป็น	แน่
+OO  OO  EM  EM  OO  OO  OO  OO  OO  OO  OO
+
+เปิด	บริการ	ทุก	วัน	ตั้งแต่	เวลา	07.00	-	15.00
+OO  OO  ET  ET  ET  ET  ET  ET  ET
+
+เบอร์	โทรศัพท์	ร้าน	0	8	1	-	3	6	4	-	6	3	3	7	0	8	7	-	00	5	-	4	7	8	2
+OO  OO  OO  EP  EP  EP  EP  EP  EP  EP  EP  EP  EP  EP  EP  EP  EP  EP  EP  EP  EP  EP  EP  EP  EP  EP
+
+ไม่	มี	แค่	ผัด	ไทย	ยัง	มี	ก๋วยเตี๋ยว	หมู	บะหมี่	เกี๊ยว	อาหาร	ตาม	สั่ง	อีก	หลาย	รายการ	รวม	ไป	ถึง	ขนม	ของ	ฝาก
+OO  OO  OO  EM  EM  OO  OO  EM  EM  EM  EM  EM  EM  EM  OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+ค่อน	ข้าง	ชอบ	ทาง	ร้าน	ขาย	ราคา	แค่	3	0	บาท
+OO  OO  OO  OO  OO  OO  OO  OO  EP  EP  EP
+
+สั่ง	เมนู	แนะนำ	ของ	ร้าน	“	wings	with	friends	”
+OO  OO  OO  OO  OO  OO  EN  EN  EN  OO
+
+ราคา	จาน	7	9	บาท
+OO  OO  EP  EP  EP
+
+เลย	ขอ	มา	ชิม	ซะ	หน่อย	เลือก	เป็น	แบบ	บุฟเฟ่ต์	ไก่	1	9	9
+OO  OO  OO  OO  OO  OO  OO  OO  OO  EM  OO  EP  EP  EP
+
+ร้าน	เจียว	ดาว	หลัง	มช	เปิด	ตั้งแต่	1	7	:	3	0	-	0	1	:	3	0
+OO  EN  EN  EN  EN  OO  OO  ET  ET  ET  ET  ET  ET  ET  ET  ET  ET  ET
+
+ส่วน	ใหญ่	เป็น	นักเรียน	ไป	จนถึง	คน	รุ่น	ใหญ่	เพราะ	ราคา	ของ	ทาง	ร้าน	เริ่ม	ต้น	1	5	บาท
+OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  EP  EP  EP
+
+เมนู	ทีเด็ด	ของ	ร้าน	ก๋วยเตี๋ยว	ไข่	ไดโนเสาร์	ไข่	มี	ลาย	สีชมพู	เป็น	เส้น	ๆ
+OO  OO  OO  OO  EM  EM  EM  OO  OO  OO  OO  OO  OO  OO
+
+ร้าน	เดชา	เขา	เปลี่ยน	ไป	พื้นที่	กว้าง	มาก	ขึ้น	ใช้	พื้นที่	ของ	เจ้าของ	บ้าน
+OO  EN  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+ก๋วยเตี๋ยว	ลูก	ชิ้น	ไข่	ไดโนเสาร์	3	5	บาท
+EM  OO  OO  OO  OO  EP  EP  EP
+
+ซาลาเปา	ลาวา	3	ลูก	5	9	บาท
+EM  EM  EP  EP  EP  EP  EP
+
+ร้าน	Namaste	Indian	Cuisine	อร่อย	มาก	อร่อย	สุด	ใน	เชียงใหม่
+OO  EN  EN  EN  OO  OO  OO  OO  OO  EL
+
+ร้าน	พึ่ง	เปิด	มา	แค่	3	เดือน	เชฟ	คน	อินเดีย	เจ้าของ	ร้าน	เค้า	เป็น	เชฟ	อยู่	อินเดีย	มา	1	5	ปี	เน่อ
+OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+เปิด	จันทร์	-	เสาร์	11.00	-	22.00	ปิด	อาทิตย์
+OO  ET  ET  ET  ET  ET  ET  ET  ET
+
+หวา	หลิน	ร้าน	อาหาร	จีน	เส้น	สัน	กำแพง	สาย	เก่า	ก่อน	ถึง	แยก	หลุยส์
+EN  EN  OO  EM  EM  OO  EL  EL  OO  OO  OO  OO  EL  EL
+
+ร้าน	La	baguette
+OO  EN  EN
+
+วัน	ก่อน	เห็น	ร้าน	flips	flips	โพสต์	เค้า	มี	โดนัท	ออก	ใหม่
+OO  OO  OO  OO  EN  EN  OO  OO  OO  EM  OO  OO
+
+พี่	มา	ตอน	ร้าน	เปิด	1	1	โมง
+OO  OO  OO  OO  OO  OO  OO  OO
+
+งาน	คู่	วัน	งาน	ปาท่องโก๋	ของ	ร้าน	โจ๊ก	ต้น	พ	ยอม	กรอบ	นอก	นุ่ม	ใน	มา	ร้อน	ๆ
+OO  OO  OO  OO  EM  OO  OO  EN  EN  EN  EN  OO  OO  OO  OO  OO  OO  OO
+
+เมื่อ	วาน	ไป	หลัง	มอ	ใกล้	ๆ	เที่ยง	ผ่าน	ตรง	เวิ้ง	volcano	Tea	Inn	ที	อิน	น์	เชียงใหม่
+OO  OO  OO  EL  EL  OO  OO  OO  OO  OO  EL  EL  EN  EN  EN  EN  EN  OO
+
+ร้าน	Sweet	a	bit	ChiangMai	พี่	เล็ก	นาง	ทำ	ขนม	อร่อย	หวาน	น้อย	ดั่ง	ชื่อ	ร้าน
+OO  EN  EN  EN  EN  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+จา	กร้าน	Les	Fleurs	Fac
+OO  OO  EN  EN  EN
+
+ถ้า	โจทย์	อยาก	กิน	อาหาร	ไทย	รสชาติ	ไทย	จริงๆ
+OO  OO  OO  OO  EM  EM  OO  OO  OO
+
+ริม	อยู่	ตรง	ข้าม	Steak	of	the	day	เลย	ใน	เวิ้ง	แม่	ริม	พลาซ่า
+OO  OO  OO  OO  EN  EN  EN  EN  OO  OO  EL  EL  EL  EL
+
+หมู	ปิง	หลัง	มอ	ขุม	พลัง	ของ	นักรบ	ไฟ	นอ	ล
+EN  EN  EN  EN  OO  OO  OO  OO  OO  OO  OO
+
+สาขา	ใหม่	ออน	ใต้​	เปิด	เฉพาะ	เสาร์	อาทิตย์
+EL  EL  EL  EL  OO  ET  ET  ET
+
+ข้าว	ผัด	ปู	อยู่	ถนน	ดิ	เส	วี	ตั้ง	อยู่	ตรง	ข้าม	7	-	1	1
+EM  EM  EM  OO  OO  EL  EL  EL  OO  OO  OO  OO  EL  EL  EL  EL
+
+สั่ง	อาหาร	ล่วง	หน้า	ได้ที่	เบอร์	โทรศัพท์	0	9	7	-	00	1	5	5	3	4
+OO  OO  OO  OO  OO  OO  OO  EP  EP  EP  EP  EP  EP  EP  EP  EP  EP
+
+อาหาร	ที่	พื้น	ฐาน	4	0	บาท	พิเศษ	5	0	บาท	เท่านั้น	เอง
+OO  OO  OO  OO  EP  EP  EP  EP  EP  EP  EP  OO  OO
+
+วัน	เมนู	สั่ง	เริ่ม	แรก	ข้าว	ผัด	ปู	4	0	บาท	ตาม	ข้าว	ผัด	ขี้	เมา	ปลาหมึก	4	0	บาท
+OO  OO  OO  OO  OO  EM  EM  EM  EP  EP  EP  OO  OO  EM  EM  EM  EM  EP  EP  EP
+
+ร้าน	เป็น	ที่	ขึ้น	ชื่อ	เรื่อง	ข้าว	ผัด	ปู	บอก	เลย	ข้าว	เม็ด	เล็ก	เรียง	สวยงาม	ผัด	มา	แบบ	หอม	เล็ก	ๆ
+OO  OO  OO  OO  OO  OO  EM  EM  EM  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+จา	กร้าน	Les	Fleurs	Fac
+OO  OO  EN  EN  EN

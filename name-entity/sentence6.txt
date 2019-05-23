@@ -1,0 +1,45 @@
+﻿ร้าน	อาหาร	คุ้ม	เวียง	ยอง	เป็น	ร้าน	อาหาร	เชียงใหม่
+OO  OO  EN  EN  EN  OO  OO  OO  OO
+
+อยาก	ไป	ร้าน	เต๊ก	รู้	ทาง	ไป	ไหม
+OO  OO  OO  EM  OO  OO  OO  OO
+
+ไม่	เฉพาะ	ข้าว	ซอย	ที่	เป็น	เมนู	แนะนำ	ยัง	มี	เมนู	อื่น	ที่	ชวน	ติดตาม
+OO  OO  EM  EM  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+กิน	ข้าว	ผัด	ปู	ต้อง	ไป	ที่	ร้าน	หยก	โภชนา
+OO  EM  EM  EM  OO  OO  OO  OO  OO  OO
+
+ร้าน	อาหาร	นานาชาติ	แถว	รร	ยุพราช	มี	อะไร	มั่ง
+OO  EN  EN  OO  OO  EL  OO  OO  OO
+
+เดิม	ตั้ง	อยู่	แถวๆ	มหาวิทยาลัย	เชียงใหม่
+OO  OO  OO  OO  EL  EL
+
+ร้าน	เบอร์	โทร	0	8	9	6	5	3	1	4	7	0
+OO  OO  OO  EC  EC  EC  EC  EC  EC  EC  EC  EC  EC
+
+0	8	0	-	5	8	9	-	5	7	1	4
+EC  EC  EC  EC  EC  EC  EC  EC  EC  EC  EC  EC
+
+โทร	จอง	โต๊ะ	เบอร์	0	6	4	1	7	1	6	1	6	1
+OO  OO  OO  OO  EC  EC  EC  EC  EC  EC  EC  EC  EC  EC
+
+ร้าน	เค้า	เปิด	ตอน	9	โมง	เช้า	จนถึง	5	โมง	เย็น
+OO  OO  OO  OO  ET  ET  ET  ET  ET  ET  ET
+
+เวลา	เปิด	ปิด	ร้าน	9.00	-	19.00
+OO  OO  OO  OO  ET  ET  ET
+
+ร้าน	เปิด	ตั้งแต่	8	:	00	-	1	5	:	00
+OO  OO  OO  ET  ET  ET  ET  ET  ET  ET  ET
+
+วัน	เปิด	ปิด	ร้าน	ไม่	แน่นอน
+OO  OO  OO  OO  OO  OO
+
+ราคา	อาหาร	ไม่	ถึง	1	00	บาท
+OO  OO  OO  OO  EP  EP  EP
+
+อาหาร	จาน	หนึ่ง	ประมาณ	1	00	-	2	5	0
+OO  OO  OO  OO  EP  EP  EP  EP  EP  EP
+

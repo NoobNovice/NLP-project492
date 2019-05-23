@@ -1,0 +1,129 @@
+﻿์Name
+ชื่อร้านName
+ร้านชื่อName
+Type
+เป็นร้านType 
+ร้านขายType
+ขายType
+ร้านType
+Type Prop
+เป็นร้านType Prop 
+ร้านNameขายType Prop
+ขายType Prop
+ร้านType Prop
+Num Num - Num Num Num Num Num Num Num Num
+Num Num Num Num Num Num Num Num Num Num
+Num Num Num - Num Num Num - Num Num Num
+Num Num Num Num Num Num Num Num Num
+ร้านNameเบอร์ Num Num - Num Num Num Num Num Num Num Num
+ร้านNameเบอร์ Num Num Num Num Num Num Num Num Num Num
+ร้านNameเบอร์ Num Num Num - Num Num Num - Num Num Num
+ร้านNameเบอร์ Num Num Num Num Num Num Num Num Num
+เบอร์ Num Num - Num Num Num Num Num Num Num Num
+เบอร์ Num Num Num Num Num Num Num Num Num Num
+เบอร์ Num Num Num - Num Num Num - Num Num Num
+เบอร์ Num Num Num Num Num Num Num Num Num
+โทร Num Num - Num Num Num Num Num Num Num Num
+โทร Num Num Num Num Num Num Num Num Num Num
+โทร Num Num Num - Num Num Num - Num Num Num
+โทร Num Num Num Num Num Num Num Num Num
+Location
+ร้านอยู่แถว Location 
+อยู่แถว Location
+อยู่ตรง Location
+ร้านName อยู่แถวLocation
+ร้านอยู่ตรงLocation
+อยู่ตรงLocation
+ร้านNameอยู่ตรงLocation
+Location
+ร้านอยู่แถว Location Prep Build
+อยู่แถว Location Prep Build
+อยู่ตรง Location Prep Build
+ร้านName อยู่แถวLocation Prep Build
+ร้านอยู่ตรงLocation Prep Build
+อยู่ตรงLocation Prep Build
+ร้านNameอยู่ตรงLocation Prep Build
+Location Prep Build
+ร้านอยู่แถว Location Prep ร้านName
+อยู่แถว Location Prep ร้านName
+อยู่ตรง Location Prep ร้านName
+ร้านName อยู่แถวLocation Prep ร้านName
+ร้านอยู่ตรงLocation Prep ร้านName
+อยู่ตรงLocation Prep ร้านName
+ร้านNameอยู่ตรงLocation Prep ร้านName
+Location Prep ร้านName
+อยู่ Prep Build
+อยู่ Prep ร้านName
+ธรรมดา Num Num พิเศษ Num Num
+ธรรมดา Num Num บาทพิเศษ Num Num บาท
+Num Num พิเศษ Num Num
+Num Num บาทพิเศษ Num Num บาท
+Num Num เพิ่มไข่เจียว Num บาท
+Num Num บาทเพิ่มไข่เจียว Num บาท
+Num Num เพิ่มไข่ดาว Num บาท
+Num Num บาทเพิ่มไข่ดาว Num บาท
+Num Num เพิ่มไข่ Num บาท
+Num Num บาทเพิ่มไข่ Num บาท
+Noun ละ Num Num บาท
+Noun ละ Num Num บาท พิเศษ Num Num
+ไม้ล่ะ Num บาท Num ไม้ Num Num
+บุฟเฟ่ต์หัวละ Num Num Num บาท
+บุฟเฟ่ต์หัวละ Num Num Num บาทรวมน้ำ
+บุฟเฟ่ต์หัวละ Num Num Num บาทแยกน้ำ
+บุฟเฟ่ต์หัวละ Num Num Num บาทไม่ร่วมน้ำ
+ราคาประมาณ Num Num Num ถึง Num Num Num
+ราคาประมาณ Num Num ถึง Num Num
+ราคาไม่ถึงร้อย
+Type Num Num บาท
+Type Num Num Num บาท
+ถูกมาก Prep ละ Num Num บาท
+ถูกมากแค่ Num Num เอง
+ราคาไม่แพง
+แพงมาก
+Num Num
+Num Num Num
+Num Num Num Num
+Num Num บาท
+Num Num Num บาท
+Num Num Num Num บาท
+ร้านเปิดตั้งแต่ Num Num.Num Num - Num Num.Num Num
+ร้านเปิด Num Num.Num Num น. ถึง Num Num.Num Num
+ร้านNameเปิด Num Num.Num Num - Num Num.Num Num
+ร้านNameเปิด Num Num.Num Num ถึง Num Num.Num Num
+ร้านเปิด Num Num.Num Num - Num Num.Num Num น.
+ร้านเปิดตั้งแต่ Num Num.Num Num น. ถึง Num Num.Num Num น.
+ร้านNameเปิด Num Num.Num Num - Num Num.Num Num น.
+ร้านNameเปิด Num Num.Num Num น. ถึง Num Num.Num Num น.
+ร้านเปิด Num Num:Num Num - Num Num:Num Num น.
+ร้านเปิดตั้งแต่ Num Num:Num Num น. ถึง Num Num:Num Num น.
+ร้านNameเปิด Num Num:Num Num - Num Num:Num Num น.
+ร้านNameเปิด Num Num:Num Num น. ถึง Num Num:Num Num น.
+ร้านเปิดTimeClockถึงTimeClock
+ร้านเปิดตั้งแต่TimeClockถึงTimeClock
+ร้านเปิด24ชั่วโมง
+ร้านเปิดทั้งวัน
+ร้านเปิดถึงตอนTime
+ร้านเปิดตอนTime
+ร้านเปิดถึงTimeClock
+ร้านปิดTimeClock
+ร้านเปิดวันDate
+ร้านเปิดทุกวัน
+ร้านNameเปิดTimeClockถึงTimeClock
+ร้านNameเปิดตั้งแต่TimeClockถึงTimeClock
+ร้านNameเปิด24ชั่วโมง
+ร้านNameเปิดทั้งวัน
+ร้านNameเปิดถึงตอนTime
+ร้านNameเปิดตอนTime
+ร้านNameเปิดถึงTimeClock
+ร้านNameปิดTimeClock
+ร้านNameเปิดวันDate
+ร้านNameเปิดทุกวัน
+TimeClock
+Date ถึง Date เวลา Num Num.Num Num - Num Num.Num Num
+Date ถึง Date Num Num.Num Num - Num Num.Num Num
+Date - Date Num Num.Num Num - Num Num.Num Num
+Num Num.Num Num - Num Num.Num Num Date - Date
+Num Num.Num Num - Num Num.Num Num เปิดวันDate - Date หยุดวัน Date
+เปิดDateถึงDate เวลา Num Num.Num Num - Num Num.Num Num
+ร้านเปิดวันDateถึงDateตั้งแต่TimeClockถึงTimeClock
+ร้านNameเปิดวันDateถึงDateตั้งแต่TimeClockถึงTimeClock

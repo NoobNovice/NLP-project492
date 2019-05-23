@@ -1,0 +1,20 @@
+﻿0 res name
+EN
+
+1 res type and menu
+EM
+
+2 res time
+ET
+
+3 contact
+EC
+
+4 price
+EP
+
+5 location
+EL
+
+6 other
+OO

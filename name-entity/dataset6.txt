@@ -1,0 +1,110 @@
+﻿อี	กร้าน	ที่	ไม่	ค่อย	ทำให้	ผิด	หวัง	คือ	เฮือน	ม่วน
+OO  OO  OO  OO  OO  OO  OO  OO  OO  EN  EN
+
+ร้าน	คน	เยอะ	จริงจัง
+OO  OO  OO  OO
+
+เมื่อ	ปี	ที่	ลอง	สลับ	เอา	ร้าน	ฮ้า	น	ถึง	เชียงใหม่	ขึ้น	มา	บรรจุ	อยู่	ใน	ลิ	สต	์
+OO  OO  OO  OO  OO  OO  OO  EN  EN  EN  EN  OO  OO  OO  OO  OO  OO  OO  OO
+
+หลัง	จาก	ย้าย	มา	อยู่	ใน	ซอย	วัด	อุโมงค์	ลูกค้า	ตาม	มา	กิน	กัน	เพียบ
+OO  OO  OO  OO  OO  OO  OO  EL  EL  OO  OO  OO  OO  OO  OO
+
+นัก	ท่อง	เที่ยว	สาย	ตะลุย	อย่าง	เรา	กลัว	ที่ไหน
+OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+มี	ร้าน	อาหาร	เหนือ	อีก	แห่ง	ที่	เพิ่ง	เปิด	ใหม่	ไม่	นาน
+OO  OO  EM  EM  OO  OO  OO  OO  OO  OO  OO  OO
+
+อยู่	หลัง	สุด	ซอย	7	เจ้า	เดียวกัน	ร้าน	ข้าว	แกง	หอม	ด่วน	แถว	เอกมัย
+OO  OO  OO  OO  OO  OO  OO  OO  EN  EN  EN  EN  OO  EL
+
+การ	หา	ข้าว	ซอย	ทาน	ใน	เชียงใหม่	ไม่ใช่	เรื่อง	ยาก
+OO  OO  EM  EM  OO  OO  EL  OO  OO  OO
+
+เพราะ	ร้าน	อาหาร	เหนือ	แทบ	ทุ	กร้าน	มัก	มี	เมนู	บรรจุ	อยู่
+OO  OO  EM  EM  OO  OO  OO  OO  OO  OO  OO  OO
+
+ชวน	ชิม	คงจะ	แนะ	ให้	ไป	กิน	ที่	ร้าน	ข้าว	ซอย	เสมอใจ	เพราะ	เป็น	ร้าน	ข้าว	ซอย	ร้าน	แรก	ที่	รู้จัก
+EN  EN  OO  OO  OO  OO  OO  OO  OO  EN  EN  EN  OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+บาง	คน	เรียก	ว่า	ข้าว	ซอย	วัด	ฟ้า	ฮ่า	เพราะ	อยู่	ใกล้	วัด
+OO  OO  OO  OO  EN  EN  EN  EN  EN  OO  OO  OO  OO
+
+ส่วน	อี	กร้าน	ถ้า	ไม่	พูด	ถึง	อาจ	น้อยใจ	คือ	ข้าว	ซอย	ลำดวน
+OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  EN  EN  EN
+
+โทร	0	8	8	-	9	7	8	-	7	9	9	6	0	8	6	-	5	4	1	-	6	6	4	6
+OO  EC  EC  EC  EC  EC  EC  EC  EC  EC  EC  EC  EC  EC  EC  EC  EC  EC  EC  OO  EP  EP  EP  EP  EP
+
+ราคา	เริ่ม	ต้น	ที่	5	0	พิเศษ	7	0
+OO  OO  OO  OO  EP  EP  EP  EP  EP
+
+ชา	มละ	5	0
+OO  OO  EP  EP
+
+5	0	บาท
+EP  EC  EP
+
+5	0	ต่อ	ชาม
+EP  EP  EP  EP
+
+แพง	อยู่	1	8	9	ต่อ	คน	รวม	น้ำ
+OO  OO  EP  EP  EP  EP  EP  EP  EP
+
+อยู่	ตรง	แยก	สิง	คำ
+OO  OO  OO  EL  EL
+
+ซูชิ	หลัง	มอ
+EM  EL  EL
+
+โทร	:	0	5	3	-	2	1	8	-	2	7	8	0	8	2	-	1	8	0	-	1	1	7	7
+OO  OO  EC  EC  EC  EC  EC  EC  EC  EC  EC  EC  EC  EC  EC  EC  EC  EC  EC  EC  EC  EC  EC  EC  EC
+
+เป็น	ร้าน	อาหาร	ไทย	ที่	ค่อน	ข้าง	ถูก	จริต	คน	หลาย	กลุ่ม
+OO  OO  EM  EM  OO  OO  OO  OO  OO  OO  OO  OO
+
+เปิด	รับ	ตั้งแต่	ตอน	1	0	โมง	เช้า	ยาว	ไป	ถึง	5	โมง	เย็น
+OO  OO  OO  ET  ET  ET  ET  ET  OO  OO  ET  ET  ET  ET
+
+ร้าน	ถือ	เป็น	ร้าน	คาเฟ่	ยอด	นิยม
+OO  OO  OO  OO  EM  OO  OO
+
+เซ็ต	บุฟเฟต์	ขนม	หวาน	เขา	มี	เสิร์ฟ	ที่	ห้อง
+OO  OO  EM  EM  OO  OO  OO  OO  OO
+
+บุฟเฟต์	เฉพาะ	วัน	เสาร์	-	อาทิตย์	เวลา	1	3	:	00	-	1	8	:	00	ราคา	5	5	0	บาท
+EM  ET  ET  ET  ET  ET  ET  ET  ET  ET  ET  ET  ET  ET  ET  ET  OO  EP  EP  EP  EP
+
+อยู่	บน	ถนน	สมโภช	เชียงใหม่	7	00	ปี
+OO  OO  OO  EL  EL  EL  EL  EL
+
+เนื่องจาก	ร้าน	อาหาร	ข้าง	ทาง	ที่	พูด	ถึง	ใน	เชียงใหม่	มี	นับ	พัน	ร้าน
+OO  OO  OO  OO  OO  OO  OO  OO  OO  EL  OO  OO  OO  OO
+
+ร้าน	เปิด	ถึง	ประมาณ	4	โมง	เย็น
+OO  OO  ET  ET  ET  ET  ET
+
+ไม่	คิด	ว่า	มี	ร้าน	พิซซ่า	ดี	ๆ
+OO  OO  OO  OO  OO  EM  OO  OO
+
+บาง	คน	เรียก	ว่า	ข้าว	ซอย	วัด	ฟ้า	ฮ่า	เพราะ	อยู่	ใกล้	วัด
+OO  OO  OO  OO  EN  EN  EN  EN  EN  OO  OO  OO  OO
+
+ราคา	เริ่ม	ต้น	ที่	5	0	พิเศษ	7	0
+OO  OO  OO  OO  EP  EP  EP  EP  EP
+
+ชา	มละ	6	0
+OO  OO  EP  EP
+
+แพง	อยู่	1	8	9	ต่อ	คน	รวม	น้ำ
+OO  OO  EP  EP  EP  EP  EP  EP  EP
+
+แก้ว	ละ	8	0	บาท
+OO  OO  EP  EP  EP
+
+แก้ว	ละ	3	5	ถูก	มาก
+OO  OO  EP  EP  OO  OO
+
+แก้ว	4	0	บาท
+OO  EP  EP  EP

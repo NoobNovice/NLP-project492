@@ -1,0 +1,194 @@
+﻿นิมมาน	ซอย	8	-	1	0
+EL  EL  OO  OO  OO  OO
+
+อาหาร	ระดับ	พีค	คือ	เอา	มา	เสิร์ฟ	จาน	เท่า	บ้าน
+OO  OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+ทำไม	มัน	ถูก	มาก	กก	กก	ไม่	ถึง	1	00	บาท	รสชาติ	เป็น	สไตล์	ญี่ปุ่น	เน้น	หมู	ทอด
+OO  OO  OO  OO  OO  OO  OO  OO  EP  EP  EP  OO  OO  OO  EM  OO  OO  OO
+
+ถ้า	ไม่	พอใจ	เพิ่ม	ชีส	ตามใจ	ชอบ	ใคร	ชอบ	เยอะ	ๆ	สะใจ	แนะนำ	ให้	มา
+OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+หลัง	มหาวิทยาลัย	เชียงใหม่	แนะนำ	ให้	เปิด	แผนที่	ดู	ถ้า	คน	ต่าง	ถิ่น	สังเกต	ยาก	มาก
+OO  EL  EL  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+เป็น	ร้าน	ของ	หวาน	ใน	ตำนาน	ที่	อยาก	ให้	ไป	เปิด	ใน	กรุงเทพฯ	ที่สุด
+OO  OO  EM  EM  OO  OO  OO  OO  OO  OO  OO  OO  EL  OO
+
+ส่วน	ตัว	ชอบ	มากกว่า	ทุ	กร้าน	ใน	กรุงเทพฯ	อีก
+OO  OO  OO  OO  OO  OO  OO  EL  OO
+
+เพราะ	ของ	อร่อย	ราคา	ถูก	ร้าน	มี	ทั้ง	เมนู	ปกติ	เมนู	ที่	ให้	ลูกค้า	มิ	กันเอา	เอง
+OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+มี	ใบ	กรอก	มา	ให้	ว่า	อยาก	ขนมปัง	แบบ	ไหน	ท็อป	ปิ้ง	แบบ	ไหน	บ้าง
+OO  OO  OO  OO  OO  OO  OO  EM  OO  OO  OO  OO  OO  OO  OO
+
+สถานี	สูตร	ร้าน	มี	หลาย	เมนู	ที่	ไป	ทุก	ครั้ง	กิน	ตลอด	คือ	ก๋วยเตี๋ยว	ชีส	ชีส	แผ่น	ใหญ่	รส	เข้า	กัน	ก๋วยเตี๋ยว	กลมกล่อม	มาก
+EN  EN  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  EM  OO  OO  OO  OO  OO  OO  OO  EM  OO  OO
+
+ต้มยำ	ไข่	หวาน	ประตู	สวน	ดอก	เป็น	ก๋วยเตี๋ยว	ที่	แรง	บันดาล	ใจมา	จาก	ซอง	มา	เห	รอ
+EN  EN  EN  EL  EL  EL  OO  EM  OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+ของสด	ที	เดียว	รสชาติ	อร่อย	ดี	ชาม	ใหญ่	คุ้ม	เกิน	ราคา
+OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+ที่	เดียว	สถานี	สูตร	มัน	แทบ	ติด	กัน	แนะนำ	ให้	เอา	เป็น	ของ	หวาน
+OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  EM  EM
+
+น้ำ	แข็ง	รส	นม	หวาน	มัน	นุ่ม	ลิ้น	มาก	ตัด	สต	รอ	เบอร์	รี	หรือ	มะม่วง	สั่ง	เปรี้ยว	นิด	ๆ
+OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+มี	พุดดิ้ง	นม	ที่	มัน	ๆ	กว่า	น้ำ	แข็ง	ผสม	กัน	3	อย่าง	คือ	ดี	มา	กก	กก	กก	อยาก	ให้	ลอง
+OO  OO  EM  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+ไข่	ป่า	ถนน	คน	เดิน	มี	เฉพาะ	วัน	อาทิตย์
+OO  OO  OO  OO  OO  OO  ET  ET  ET
+
+เป็น	ไข่	ปิ้ง	ใน	ใบตอง	ใส่	พวก	ไข่	มดแดง	เห็ด	เข้าไป	กลิ่น	หอม	ๆ	กิน	ร้อน	ๆ	มา	กก	กก	กก	1	5	-	2	0	บาท
+OO  EM  EM  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  EP  EP  EP  EP
+
+แฮมเบอร์เกอร์	สไตล์	อเมริกัน	ที่	จัด	จาน	สวย	มา	กก	กก	กก
+EM  OO  EM  OO  OO  OO  OO  OO  OO  OO  OO
+
+ร้าน	แฮมเบอร์เกอร์	สไตล์	อเมริกัน	ที่	จัด	จาน	สวย	มา	กก	กก	ก
+OO  EM  OO  EM  OO  OO  OO  OO  OO  OO  OO  OO
+
+เหมือน	จงใจ	ว่า	เฮ้ย	ๆ	จัด	ไว้	ให้	ถ่าย	รูป	ถ่าย	ดิ
+OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+รสชาติ	ไป	ทาง	ฝรั่ง	ผสม	รสชาติ	แบบ	ไทย	ลงตัว	ที	เดียว	อย่าง	เช่น	ตาม	ภาพ	คือ	อัน	นรก	สวรรค์
+OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+อัน	นรก	เป็น	ไส้	กะเพรา	ไข่	ดาว	รส	เหมือน	กิน	กะเพรา	ไข่	ดาว	จัด	จ้าน	มาก	ๆ
+OO  OO  OO  OO  EN  OO  OO  OO  OO  OO  EM  OO  OO  OO  OO  OO  OO
+
+ลูก	ชิ้น	ลุง	สวน	หลัง	โรงเรียน	ปริ	รอย	วิทยาลัย	ขาย	ตอน	เย็น	ๆ
+EN  EN  EN  EN  OO  EL  EL  EL  EL  OO  OO  OO  OO
+
+ลูก	ชิ้น	ลุง	สวน	เป็น	ลูก	ชิ้น	ขาย	หน้า	โรงเรียน	แบบ	เด็ก	ๆ	ซื้อ	ขึ้น	ชื่อ	จน	คน	รู้จัก	ทั้ง	จังหวัด
+EN  EN  EN  EN  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+เขา	ต้ม	สด	ๆ	มี	น้ำ	จิ้ม	เรา	จิ้ม	หน้า	ร้าน	เลย	เสร็จ	จ่าย	ตังค์	1	0	-	2	0	บาท
+OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  EP  EP  EP  EP  EP  EP
+
+the	ข้าง	ร้าน	อ๋อง	ทิพย์	รส	ประตู	ช้าง	เผือก
+EN  OO  OO  EN  EN  EN  EL  EL  EL
+
+the	ร้าน	ธีม	เทพนิยาย	เข้าไป	เหมือน	อยู่	อีก	โลก	หนึ่ง	ใคร	เป็น	พวก	ชอบ	แนว	ๆ	ดิสนีย์	น่า	ชอบ
+EN  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+อาหาร	ดู	สดใส	ตาม	ธีม	ร้าน	รสชาติ	ไม่	โดด	เด่น	มาก	ถือว่า	อยู่	ใน	ระดับ	อร่อย
+OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+ไม่ใช่	ร้าน	อาหาร	มัน	คือ	สถาน	ที่	อ่าน	หนังสือ	ที่	พีค	มาก	ดีไซน์	สวยงาม	ใคร	เข้า	ก็ได้	ไม่	จำกัด
+OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+อยาก	ให้	มา	เปิด	ใน	กรุงเทพฯ	มาก	กก	กก	อาหาร	อร่อย	ดี	เน้น	ของ	หวาน	ถ้า	ซื้อ	อาหาร	รหัส	2	ชั่วโมง
+OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+ห้าง	ชา	เขียว	หอม	มาก	ขม	นิด	ๆ	อร่อย	รส	นม	อร่อย	มี	2	รส	รสชาติ	แปลก	มาก	ไม่	เหมือน	นม	หรือ	ชา	เขียว	ทั่วไป
+OO  EM  EM  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  EM  EM  OO
+
+ถนน	ห้วย	แก้ว	ก่อน	ถึง	มหาวิทยาลัย	เชียงใหม่
+OO  EL  EL  EL  OO  EL  EL
+
+เป็น	ร้าน	นั่ง	ชิล	ตกแต่ง	สไตล์	เก่า	ๆ	พวก	น่า	ชอบ
+OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+อาหาร	อร่อย	มาก	ราคา	ไม่	แพง	ส่วน	พวก	เค้ก	บางที	เปลี่ยน	เมนู	ไป	เรื่อย	ๆ	ช่วง
+OO  OO  OO  OO  OO  OO  OO  OO  EM  OO  OO  OO  OO  OO  OO  OO
+
+โรงแรม	เป็น	บุฟเฟ่ต์	นานาชาติ	เด่น	ๆ	คือ	อาหาร	ทะเล	ที่	มี	ขา	ปู	อ	ลา	ส	เขา	มา	เติม	เรื่อย	ๆ	ไม่	ปล่อย	ให้	ขาด	ช่วง	เลย
+OO  OO  EM  OO  OO  OO  OO  EM  EM  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+ของ	อื่น	ๆ	มี	นานาชาติ	ทั่ว	ๆ	ไป	มี	ขา	แกะ	ว่า	ไม่	ถ่าย	มา	อะ
+OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+กิน	มา	หมด	ที่	คือ	พวก	ของ	ทะเล	สด	เหมือน	ไป	ภาค	ใต้	เลย	หัว	ประมาณ	1	2	00	บาท
+OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  EP  EP  EP  EP
+
+ร้าน	ไข่	กระทะ	เลิศ	รส	ถนน	พระ	ปกเกล้า	จอด	รถ	ใน	วัด	แถว	หา	ที่	จอด	ยาก	มาก
+OO  EN  EN  EN  EN  OO  EL  EL  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+ร้าน	ไข่	กระทะ	เลิศ	รส	เป็น	ร้าน	นรก	ที่มา	3	-	4	รอบ	กว่า	กิน	เพราะ	ถอด	ใจ	หา	ที่	จอด	รถ	ไม่	เลย	หา	ดี	ๆ
+OO  EN  EN  EN  EN  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+พอได้	กิน	คุ้ม	จริง	ๆ	เพราะ	อร่อย	สม	ชื่อ	ร้าน	เป็น	ไข่	กระทะ	ที่	อร่อย	สุด	ตั้งแต่	กิน	มา	เลย	ต้อง	มา	ลอง	เอง
+OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+แถว	ร้าน	ไข่	กระทะ	ลอง	ถาม	คน	แถว	ดู	สะดวก	กว่า	ร้าน	ต้อง	สังเกต	จริง	ๆ	เพราะ	แทบ	ไม่	เห็น	หน้า	ร้าน	มี	บูธ	รถ	ทัวร์	อยู่
+OO  OO  EN  EN  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+เจ้าของ	ร้าน	เป็น	คน	ญี่ปุ่น	ฟัง	ไทย	ยัง	งง	ๆ	เลย	บริการ	ดี	มาก	หน้าตา	งั้น	ๆ	อร่อย	เกิน	คาด	รสชาติ	เป็น	แนว	ญี่ปุ่น
+OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  EM
+
+ถนน	ห้วย	แก้ว	ตรง	ข้าม
+OO  EL  EL  OO  OO
+
+จอด	รถ	ใน	ปั๊ม	เลย	เป็น	ร้าน	อาหาร	ญี่ปุ่น	ราคา	ไม่	แพง	มี	ปลา	ดิบ	อะไร	เหมือน	ร้าน	ทั่วไป
+OO  OO  OO  OO  OO  OO  OO  EM  EM  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+ที่	ชอบ	มาก	คือ	สลัด	ปลา	ซา	ปลา	แซลมอน	ย่าง	อร่อย	มา	กก	กก	กก	ถูก	แค่	1	00	บาท	นิด	ๆ
+OO  OO  OO  OO  EM  EM  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  EP  EP  EP  OO  OO
+
+รวม	น้ำมัน	จาก	ปลา	กรอบ	อร่อย	มาก	ราคา	เมนู	อื่น	กลาง	ๆ	6	0	-	2	5	บาท	จาน
+OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  EP  EP  EP  EP  EP  EP  OO
+
+อ๋อง	ทิพย์	รส	ประตู	ช้าง	เผือก	ร้าน	ขึ้น	ชื่อ	ด้าน	ก๋วยเตี๋ยว	น้ำ	ใส	ลูก	ชิ้น	ปลา	ลูก	เล็ก	ๆ	น้ำ	ซุป	กระดูก	หมู	ที่	หอ	มมาก	กก	กก
+EN  EN  EM  EN  EN  EN  EN  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+กิน	สบาย	ๆ	ตอน	ดึก	ๆ	ไม่	หนัก	ท้อง	มา	สิง	แทบ	ทุก	คืน	ราคา	ถูก
+OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+ตาม	ภาพ	ห่อ	2	0	บาท	1	0	บาท	ตาม	ลำดับ	เยอะ	อร่อย	รสชาติ	แนว	ๆ	ต้น	ตำหรับ	แม่ค้า
+OO  OO  OO  EP  EP  EP  EP  EP  EP  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+มี	เอกลักษณ์	เหมาะ	สำหรับ	หิว	ตอน	ดึก	ๆ	ออก	มา	กิน
+OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+ข้าง	ห้าง	ออก	จาก	ห้าง
+OO  OO  OO  OO  OO
+
+ตรง	มา	โซน	คุณ	ตัน	เจอ	ต้นไม้	ยักษ์	ร้าน	มี	แมว	ยักษ์	หน้า	ร้าน
+OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+เป็น	ร้าน	ที่	ตกแต่ง	บรรยากาศ	ดี	มาก	เหมาะ	สำหรับ	นั่ง	ชิล	ๆ	สั่ง	อาหาร	กิน	เรื่อย	ๆ
+OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+ทั้ง	บรรยากาศ	อาหาร	เป็น	แนว	หรูหรา	ผสาน	ความ	เป็น	พื้น	บ้าน	ของ	ภาค	เหนือ	ลงตัว
+OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+ยิ้ม	หมี่	นิมมาน	1	5	ใกล้
+EN  EN  EL  OO  OO  OO
+
+โปรด	สังเกต	ขนาด	ช้อน	เทียบ	ขนาด	จาน	แล้	วจะ	รู้	ว่า	โค	ตะ	ระ	พ่อ	โค	ตะ	ระ	แม่	จาน	ใหญ่
+OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+เป็น	ร้าน	ที่	ชอบ	มาก	เพราะ	จาน	เดียว	ทุก	อย่าง	แบบ	สะใจ	จริง	ๆ	ทั้ง	เส้น	ข้าว	ซอย	หมู	แคป	หมู	ไข่	ต้ม	เส้น	หมี่
+OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+ติด	ถนน	ใกล้
+OO  OO  OO
+
+ของ	หวาน	รสชาติ	ดี	ชนะ	ที่	กรุงเทพฯ	หลาย	แห่ง	ถ้า	เทียบ	รสชาติ	ถือว่า	ราคา	ถูก	มาก	ชิ้น	6	0	-	7	0	บาท
+EM  EM  OO  OO  OO  OO  OO  EL  OO  OO  OO  OO  OO  OO  OO  OO  OO  EP  EP  EP  EP  EP  EP
+
+นิมมาน	1	3	-	1	5	ร้าน	สาย	ผล	ไม้	ที่	ดู	รู้	ว่า	เมนู	ต้อง	เน้น	ผล	ไม้	มันดี	มาก	แต่ละ	เมนู	รี	เอ	ที	เดียว
+EL  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+ร้าน	มี	หนังสือ	ให้	อ่าน	ออก	ฮิ	เต	อร	์	นิด	ๆ
+OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+ร้าน	เล็ก	จุ	คน	ไม่	มาก	ตัว	ขึ้น	ชื่อ	ของ	ร้าน	เป็น	บา	นอ	ฟี่	อร่อย	มาก	กิน	แบบ	ไม่	อยาก	ให้	หมด	ชิ้น
+OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+นิมมาน	1	1	กลาง	ซอย	ร้าน	อาหาร	ญี่ปุ่น	รสชาติ	โอเค	ที	เดียว
+EL  OO  OO  OO  OO  OO  OO  EM  OO  OO  OO  OO
+
+โรตี	นิมมาน	3	ติด	ถนน	ใหญ่	เปิด	ดึก	มาก	ถึง	ตี
+EN  EL  OO  OO  OO  OO  OO  OO  OO  OO  OO
+
+โรตี	ร้าน	เทพเจ้า	อี	กร้าน	ของ	เชียงใหม่	ไป	ที	ไร	เต็ม	เต็ม
+EN  OO  OO  OO  OO  OO  EL  OO  OO  OO  OO  OO
